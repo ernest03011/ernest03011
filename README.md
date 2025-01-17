@@ -7,4 +7,4 @@
 - 🏗️ Working on personal projects to sharpen my **web development** skills.
 - 🤝 Open to collaborating on **open-source** or **web-focused** projects.
 - 🔍 Ask me about **technical support**, **web hosting**, and how I apply that background to **dev** work.
-- ✉️ How to reach me: [LinkedIn](www.linkedin.com/in/manueldjesus).
+- ✉️ How to reach me: [LinkedIn](https://www.linkedin.com/in/manueldjesus/).
