@@ -1,7 +1,7 @@
 
 ## About Me 👋
 
-- 🏷️ I'm a **Tech Support Specialist** transitioning into **Software Development**.
+- 🏷️ I'm a **Former Tech Support Specialist** transitioning into **Software Development**.
 - 💻 Currently exploring **PHP**, **SQL**, and **JavaScript** to build efficient, user-friendly solutions.
 - 🎯 Eager to learn more about **software architecture**, **design patterns**, and **best practices**.
 - 🏗️ Working on personal projects to sharpen my **web development** skills.
